@@ -16,7 +16,7 @@
 
 🔢 Metodologia:  
   1. Análisis y limpieza de datos.
-  2. Tratamiento de valores.
+  2. Tratamiento de valores ausentes e incongruentes.
   3. Creación de 5 modelos diferentes (LightGBM, Catboost, XGBoost, Bosque aleatorio, árbol de decisión y regresión lineal):  
      2.1. Prueba de dos hiperparámetros distintos,  
      2.2. Elección de hiperparámetros con mejores métricas.   
